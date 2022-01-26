@@ -11,7 +11,7 @@ cls
 echo Warning!
 echo.
 echo After running this file you have to restart your computer
-echo This does nothing to damage ypur computer, but it still causes catastrophe
+echo This does nothing to damage your computer, but it still causes catastrophe
 echo.
 echo Press any key 10x to continue . . . 
 pause >nul
